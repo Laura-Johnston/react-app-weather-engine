@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+}
+
+* {
+  text-align: center;
+  list-style-type: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 2%;
+}
+li {
+  margin-right: 8%;
+}
